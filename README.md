@@ -1,6 +1,7 @@
 修改项目 BurpLoaderKeygen  
 https://github.com/h3110w0r1d-y/BurpLoaderKeygen
 
+下载地址：[BurpLoaderKeygen-Modified](https://github.com/bewhale/BurpLoaderKeygen-Modified/releases/download/1.2/BurpLoaderKeygen.jar)  
 
 新版 windows(64-bit) burp 安装后自带高版本JAVA环境,    
 修改注册机自动调用目录下JAVA的路径，  
