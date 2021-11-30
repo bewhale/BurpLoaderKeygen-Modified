@@ -3,8 +3,8 @@ https://github.com/h3110w0r1d-y/BurpLoaderKeygen
 
 
 新版 windows(64-bit) burp 安装后自带高版本JAVA环境,    
-修改注册机会自动调用目录下JAVA的路径，  
-如果只下载了jar包，则自动调用自己安装的java环境  
+修改注册机自动调用目录下JAVA的路径，  
+  
 ![](https://github.com/bewhale/BurpLoaderKeygen-Modified/blob/main/burpsuite.png?raw=true)
 
 ![](https://github.com/bewhale/BurpLoaderKeygen-Modified/blob/main/jdk.png?raw=true)
