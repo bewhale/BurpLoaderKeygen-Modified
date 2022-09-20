@@ -6,8 +6,11 @@ https://github.com/h3110w0r1d-y/BurpLoaderKeygen
   
 ![](https://github.com/bewhale/BurpLoaderKeygen-Modified/blob/main/img/burpsuite2.png?raw=true)
 
+将仓库内的文件复制到安装目录，运行对应的文件即可
+
+![](https://github.com/bewhale/BurpLoaderKeygen-Modified/blob/main/img/burpsuite3.png?raw=true)
+
 ![](https://github.com/bewhale/BurpLoaderKeygen-Modified/blob/main/img/burpsuite.png?raw=true)
 
 ![](https://github.com/bewhale/BurpLoaderKeygen-Modified/blob/main/img/burpsuite1.png?raw=true)
 
-![](https://github.com/bewhale/BurpLoaderKeygen-Modified/blob/main/img/burpsuite3.png?raw=true)
