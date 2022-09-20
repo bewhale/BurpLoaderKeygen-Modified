@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").run "cmd /k .\jre\bin\java.exe  -jar BurpLoaderKeygen.jar",0
