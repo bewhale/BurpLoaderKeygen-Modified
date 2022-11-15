@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").run "cmd /k del .config.ini & .\jre\bin\java -jar BurpLoaderKeygen.jar || java -jar BurpLoaderKeygen.jar",0
